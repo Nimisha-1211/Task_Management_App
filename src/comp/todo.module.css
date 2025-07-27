@@ -1,0 +1,33 @@
+.main{
+  width:100%;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:rgba(235, 212, 212, 0.952);
+}
+
+
+.input_box{
+  border:2px solid green;
+  padding:5px 10px 5px 10px;
+  outline:none;
+
+}
+.btn{
+  border-radius:6px;
+  background-color: green;
+  color: white;
+  padding:6px 25px 6px 20px;
+  margin-left: 2px;
+  cursor: pointer;
+}
+.btn_clear{
+  border-radius:7px;
+  background-color:rgb(200, 84, 84);
+  color: white;
+  padding:6px 25px 6px 20px;
+  margin-left: 2px;
+  cursor: pointer;
+  width:100%;
+}
